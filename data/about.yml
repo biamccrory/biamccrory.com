@@ -1,15 +1,15 @@
 enable : true
 heading : About
-headingSpan : Us
-aboutItem : 
+headingSpan : Me
+aboutItem :
 - icon : tf-tools
-  title : We're Creative
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Creative
+  content : Decades of experience in art and fashion is now focused into creating beautiful and functional websites
 
 - icon : tf-strategy
-  title : We're Professional
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Analytical
+  content : Analytics is the name of the game when it comes to your sites performance and SEO
 
 - icon : tf-anchor2
-  title : We're Genius
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  title : Best Practices
+  content : I'm a stickler for doing things right! I am constantly testing the latest and greatest in web development

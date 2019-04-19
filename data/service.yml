@@ -1,27 +1,27 @@
 enable : true
-heading : Our
+heading : My
 headingSpan : Services
 serviceItem :
   - icon : tf-globe
-    title : WordPress Theme
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
+    title : WordPress
+    content :  Choose from hundreds of WordPress themes or create your own custom theme
+
   - icon : tf-ion-laptop
     title : Responsive Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
+    content : Mobile First designs ensures your website will display beautifully on any device
+
   - icon : tf-genius
-    title : Media &amp; Advertisement
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
+    title : Shopify
+    content : Custom Shopify websites with image editing and maintenance
+
   - icon : tf-dial
-    title : Graphic Design
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
+    title : Graphics
+    content : Optimized images and media are critical to your websites performance
+
   - icon : tf-target3
-    title : Apps Development
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-    
+    title : Google Ads
+    content : Target customers who are most likely to be searching for your services
+
   - icon : tf-lifesaver
-    title : Networking
-    content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    title : Google Analytics
+    content : Complete website performance insight guides your best decisions

@@ -1,26 +1,30 @@
 enable : true
-heading : Our
+heading : My
 headingSpan : Skills
-title : We’ve skilled in wide range of web and Other digital market tools.
-content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+title : I often collaborate with fellow creatives to offer a wide range of web development options
+content : In addition to core skills I work in various platforms such as, Hugo, Shopify, WordPress, UIkit and am first to test out all the latest in web development
 image : images/about/company-growth.png
 skillItem :
   - itemNumber : 01-
-    itemName :  Business Development
-    itemPercent : 90%
-    
-  - itemNumber : 02-
     itemName :  Analysis
-    itemPercent : 70%
-    
-  - itemNumber : 03-
+    itemPercent : 90%
+
+  - itemNumber : 02-
     itemName :  Design
+    itemPercent : 90%
+
+  - itemNumber : 03-
+    itemName :  HTML
     itemPercent : 80%
-    
+
   - itemNumber : 04-
-    itemName :  IOS Development
+    itemName :  CSS
     itemPercent : 95%
-    
+
   - itemNumber : 05-
-    itemName :  Andriod Development
+    itemName :  JavaScript
     itemPercent : 75%
+
+  - itemNumber : 06-
+    itemName :  Adobe Creative Suite
+    itemPercent : 85%

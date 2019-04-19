@@ -1,19 +1,19 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Meghna"
+title = "Bia McCrory"
 theme = "meghna-hugo"
 summaryLength = 10
 
 [taxonomies]
-  author = "author"
-  category = "categories"
-  tag = "tags"
+author = "author"
+category = "categories"
+tag = "tags"
 
 # Menu
 [menu]
     [[menu.nav]]
-    name = "About Us"
+    name = "About"
     URL = "about"
     weight = 2
 
@@ -28,14 +28,14 @@ summaryLength = 10
     weight = 4
 
     [[menu.nav]]
-    name = "Team"
-    URL = "our-team"
-    weight = 5
+    # name = "Team"
+    # URL = "our-team"
+    # weight = 5
 
     [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
-    weight = 6
+    # name = "Pricing"
+    # URL = "pricing"
+    # weight = 6
 
     [[menu.nav]]
     name = "Blog"
@@ -53,8 +53,8 @@ home= "Home"
 logo = "images/logo.png"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Themefisher"
+description = "Complete Website Solutions"
+author = "Bia"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
 custom_css = ["css/custom.css"]
@@ -62,25 +62,25 @@ custom_css = ["css/custom.css"]
     # Banner Section
     [params.banner]
     enable = true
-    bgImage = "images/slider/hero-area.jpg"
+    bgImage = "images/slider/hero.jpg"
     icon = "tf-ion-play"
-    heading = "Experience the new reality"
-    content= "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi. At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!"
+    heading = "Complete Website Solutions"
+    content= "Bia McCrory"
     btn = true
-    btnText="Explore Us"
+    btnText="Services"
     btnURL="#services"
 
     # call to action
     [params.cta]
     enable = true
     title = "Great Design & Incredible Features"
-    content = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+    content = ""
     btnURL = "#"
-    btnText = "Start a project with us"
+    btnText = ""
 
     # counter
     [params.counter]
-    enable = true
+    enable = false
     bgImage = "images/backgrounds/bg-1.jpg"
         [[params.counter.counterItem]]
         title = "Happy Clients"
@@ -104,8 +104,8 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyright = "biamccrory.com"
+        copyrightURL = ""
 
         # social Icons
         [[params.footer.socialIcon]]
@@ -135,4 +135,3 @@ custom_css = ["css/custom.css"]
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-pinterest-outline"
         url = "#"
-
