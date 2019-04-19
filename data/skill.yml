@@ -3,7 +3,7 @@ heading : My
 headingSpan : Skills
 title : I often collaborate with fellow creatives to offer a wide range of web development options
 content : In addition to core skills I work in various platforms such as, Hugo, Shopify, WordPress, UIkit and am first to test out all the latest in web development
-image : #
+
 skillItem :
   - itemNumber : 01-
     itemName :  Analysis
